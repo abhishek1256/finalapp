@@ -9,10 +9,6 @@ keras==2.3.1
 soundfile
 wavinfo
 pydub
-libasound2-dev
-portaudio19-dev 
-libportaudio2
-libportaudiocpp0
 ffmpeg
 pyaudio
 numpy
