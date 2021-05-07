@@ -12,3 +12,6 @@ pydub
 ffmpeg
 pyaudio
 numpy
+librosa
+soundfile
+tensorflow
