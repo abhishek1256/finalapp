@@ -8,9 +8,6 @@ torch
 keras==2.3.1
 soundfile
 wavinfo
-pydub
-ffmpeg
-pyaudio
 numpy
 librosa
 soundfile
