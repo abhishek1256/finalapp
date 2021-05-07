@@ -12,4 +12,3 @@ pydub
 ffmpeg
 pyaudio
 numpy
-os
